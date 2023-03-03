@@ -1,0 +1,35 @@
+/* The code from lines 2-4 puts the title of the website in the center */
+.title {
+    text-align: left;
+}
+
+.item1 {
+    margin: 5px;
+    padding: 5px;
+    border: 10px solid black;
+    background: black;
+}
+
+.item2 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: black;
+}
+
+div {
+    color: white;
+    text-align: left;
+    background-color: black;
+}
+
+img {
+    width: 400px;
+    padding: 4px;
+    border: 100px;
+    color: Gray;
+}
+
+h1 {
+    color: white;
+}
